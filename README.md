@@ -1,8 +1,8 @@
 benchmark-js-example
 ====================
 
-install node
-install npm
-install grunt
+- install node
+- install npm
+- install grunt
 
 run: grunt server
